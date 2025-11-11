@@ -6,3 +6,4 @@ the firmware config files are for marlin firmware
 
 
 this is for a 4.2.2 motherboard and the cr-10s frame and potential parts from the ender 3 like the fans and extruder 
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/1911825b-805d-46fd-b46d-c4d4e27c6098" />
